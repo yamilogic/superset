@@ -1,1 +1,0 @@
-ALTER TABLE "automations" ADD COLUMN "tags" jsonb DEFAULT '["automation"]'::jsonb NOT NULL;

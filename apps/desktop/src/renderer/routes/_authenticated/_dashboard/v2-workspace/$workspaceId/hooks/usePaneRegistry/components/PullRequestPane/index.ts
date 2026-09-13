@@ -1,1 +1,0 @@
-export { PullRequestPane } from "./PullRequestPane";

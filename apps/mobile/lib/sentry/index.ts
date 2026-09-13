@@ -1,1 +1,0 @@
-export { initSentry } from "./sentry";

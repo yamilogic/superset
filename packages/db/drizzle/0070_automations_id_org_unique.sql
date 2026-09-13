@@ -1,1 +1,0 @@
-ALTER TABLE "automations" ADD CONSTRAINT "automations_id_org_unique" UNIQUE("id","organization_id");

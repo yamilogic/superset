@@ -1,1 +1,0 @@
-export { PullRequestCheckScreen } from "./PullRequestCheckScreen";

@@ -1,1 +1,0 @@
-ALTER TABLE `settings` ADD `disabled_agent_hooks` text;

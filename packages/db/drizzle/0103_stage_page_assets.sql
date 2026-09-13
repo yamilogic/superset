@@ -1,1 +1,0 @@
-ALTER TYPE "public"."attachment_parent_kind" ADD VALUE 'page';

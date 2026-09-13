@@ -1,1 +1,0 @@
-export { pluginsRouter } from "./plugins";
