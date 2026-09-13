@@ -1,1 +1,0 @@
-export { usePullRequestIconUri } from "./usePullRequestIconUri";

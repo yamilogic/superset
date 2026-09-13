@@ -1,1 +1,0 @@
-export { TierObjectives } from "./TierObjectives";

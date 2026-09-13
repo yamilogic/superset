@@ -1,1 +1,0 @@
-ALTER TABLE `settings` ADD `terminal_parked_runtime_cap` integer;

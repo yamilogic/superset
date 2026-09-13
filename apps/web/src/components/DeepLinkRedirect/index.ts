@@ -1,1 +1,0 @@
-export { DeepLinkRedirect } from "./DeepLinkRedirect";

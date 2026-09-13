@@ -1,1 +1,0 @@
-export { usePrimeRelayUrl } from "./usePrimeRelayUrl";

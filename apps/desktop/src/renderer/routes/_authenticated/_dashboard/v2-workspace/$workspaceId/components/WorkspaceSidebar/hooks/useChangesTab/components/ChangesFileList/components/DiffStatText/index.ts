@@ -1,1 +1,0 @@
-export { DiffStatText } from "./DiffStatText";

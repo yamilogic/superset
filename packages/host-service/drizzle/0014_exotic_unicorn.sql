@@ -1,1 +1,0 @@
-ALTER TABLE `projects` ADD `sparse_checkout_paths` text;

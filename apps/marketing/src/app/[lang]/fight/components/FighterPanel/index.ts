@@ -1,1 +1,0 @@
-export { FighterPanel } from "./FighterPanel";

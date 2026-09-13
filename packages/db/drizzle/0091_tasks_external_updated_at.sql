@@ -1,1 +1,0 @@
-ALTER TABLE "tasks" ADD COLUMN "external_updated_at" timestamp;

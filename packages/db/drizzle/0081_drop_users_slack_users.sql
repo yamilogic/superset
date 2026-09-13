@@ -1,1 +1,0 @@
-DROP TABLE "users__slack_users" CASCADE;
