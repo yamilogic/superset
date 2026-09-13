@@ -1,1 +1,0 @@
-export { TierGateHover } from "./TierGateHover";

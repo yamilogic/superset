@@ -1,1 +1,0 @@
-export { useMergePullRequest } from "./useMergePullRequest";

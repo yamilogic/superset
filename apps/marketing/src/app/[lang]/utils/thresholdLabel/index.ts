@@ -1,1 +1,0 @@
-export { thresholdLabel } from "./thresholdLabel";

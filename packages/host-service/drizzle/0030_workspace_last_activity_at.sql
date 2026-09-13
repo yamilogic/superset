@@ -1,1 +1,0 @@
-ALTER TABLE `workspaces` ADD `last_activity_at` integer;

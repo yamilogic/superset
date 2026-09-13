@@ -1,1 +1,0 @@
-export { useAgentIconUri } from "./useAgentIconUri";

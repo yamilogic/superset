@@ -1,1 +1,0 @@
-ALTER TABLE `host_agent_configs` ADD `icon_id` text;

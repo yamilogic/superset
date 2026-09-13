@@ -1,1 +1,0 @@
-ALTER TABLE "ingest"."webhook_events" DROP COLUMN "payload";

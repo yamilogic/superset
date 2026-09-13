@@ -1,1 +1,0 @@
-export { attachmentRouter } from "./attachment";

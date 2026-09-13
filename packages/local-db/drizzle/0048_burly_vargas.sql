@@ -1,1 +1,0 @@
-ALTER TABLE `settings` ADD `browser_homepage_url` text;

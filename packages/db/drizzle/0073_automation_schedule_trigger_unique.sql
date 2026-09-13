@@ -1,1 +1,0 @@
-CREATE UNIQUE INDEX "automation_triggers_schedule_unique" ON "automation_triggers" USING btree ("automation_id") WHERE kind = 'schedule';

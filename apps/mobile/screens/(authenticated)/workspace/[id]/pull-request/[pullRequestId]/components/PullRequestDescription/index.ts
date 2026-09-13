@@ -1,1 +1,0 @@
-export { PullRequestDescription } from "./PullRequestDescription";

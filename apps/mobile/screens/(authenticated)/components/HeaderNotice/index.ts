@@ -1,1 +1,0 @@
-export { HeaderNotice } from "./HeaderNotice";

@@ -1,1 +1,0 @@
-export { StarRangePicker } from "./StarRangePicker";
